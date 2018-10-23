@@ -1,4 +1,4 @@
-# myPygame
+# Hit DINO
 
 ## Sources Used To Make This Game
 
